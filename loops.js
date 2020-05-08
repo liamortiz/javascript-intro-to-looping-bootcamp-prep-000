@@ -9,9 +9,3 @@ function whileLoop(n) {
     n--
   }
 }
-
-function doWhileLoop(n) {
-  do {
-    console.log("I run once regardless.")
-  } while(n > 0) {n--}
-}
